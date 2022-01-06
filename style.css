@@ -8,9 +8,23 @@ body {
   font-family: 'Roboto', sans-serif; 
   background-color: transparent;
 }
-.salmon {
-  height: 250px;
-  width: 250px;
+
+.header{
+  color: red;
+  text-align: center;
+}
+h2,
+h3,
+h4{
+  color: rgb(31, 206, 206);
+  text-align: center;
+  background-color: aquamarine;
+}
+
+
+.img-salmon {
+  height: auto;
+  width: 200px;
 }
 
 .container {
@@ -26,5 +40,6 @@ body {
   width: 100px;
   height: 0px;
   top: 30px;
+  color: blue;
 
 }
